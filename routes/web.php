@@ -14,6 +14,8 @@ Route::get('/about', 'StaticPagesController@about');
 |
 */
 
-#Route::get('/', function () {
-#    return view('welcome');
-#});
+/*
+Route::get('/', function () {
+    return view('welcome');
+});
+*/
